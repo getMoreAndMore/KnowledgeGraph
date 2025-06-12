@@ -1,0 +1,9 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.64
+langchain-text-splitters==0.3.8
+langdetect==1.0.9
+streamlit==1.38.0
+streamlit-agraph==0.0.45
+zhipuai==2.1.5.20230904
+langchain_deepseek==0.1.3
