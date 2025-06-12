@@ -40,8 +40,8 @@
 
 1. 克隆项目
 ```bash
-[git clone https://github.com/getMoreAndMore/KnowledgeGraph.git](https://github.com/getMoreAndMore/KnowledgeGraph.git)
-cd KnowledgeGraph-Streamlit
+git clone https://github.com/getMoreAndMore/KnowledgeGraph.git
+cd KnowledgeGraph
 ```
 
 2. 安装依赖
