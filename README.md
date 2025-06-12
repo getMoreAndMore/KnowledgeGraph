@@ -40,7 +40,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/KnowledgeGraph-Streamlit.git
+[git clone https://github.com/getMoreAndMore/KnowledgeGraph.git](https://github.com/getMoreAndMore/KnowledgeGraph.git)
 cd KnowledgeGraph-Streamlit
 ```
 
